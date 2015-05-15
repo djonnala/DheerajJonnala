@@ -1,0 +1,10 @@
+{
+  "name": "Blank-js-solution",
+  "version": "0.0.0",
+  "description": "Blank js solution",
+  "main": "server.js",
+  "author": {
+    "name": "dheeraj",
+    "email": ""
+  }
+}
