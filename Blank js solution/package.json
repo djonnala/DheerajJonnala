@@ -5,6 +5,10 @@
   "main": "server.js",
   "author": {
     "name": "dheeraj",
+<<<<<<< HEAD
+    "email": "dheeraj.jonnala@gmail.com"
+=======
     "email": "pkishen@sygain.com"
+>>>>>>> master
   }
 }
